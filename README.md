@@ -2,9 +2,9 @@
 
 This repository refers to the following manuscript:
 
-
-- Manuscript: http://arxiv...
-- Authors: A.R. Masegosa, R. Cabañas, H. Langseth, T.D. Nielsen, A. Salmerón 
+- Title: Probabilistic Modeling with Deep Neural Networks 
+- Authors: Andrés R. Masegosa, Rafael Cabañas, Helge Langseth, Thomas D. Nielsen, Antonio Salmerón 
+- PDF: [https://arxiv.org](https://arxiv.org)
 
 Here we provide the code for running the examples in the aforementioned manuscript.
 These are provided in Jupyter notebook format and can be executed in cloud services:
