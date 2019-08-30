@@ -4,7 +4,7 @@ This repository refers to the following manuscript:
 
 - Title: Probabilistic Modeling with Deep Neural Networks 
 - Authors: Andrés R. Masegosa, Rafael Cabañas, Helge Langseth, Thomas D. Nielsen, Antonio Salmerón 
-- PDF: [https://arxiv.org](https://arxiv.org)
+- PDF: [https://arxiv.org/pdf/1908.03442.pdf](https://arxiv.org/pdf/1908.03442.pdf)
 
 Here we provide the code for running the examples in the aforementioned manuscript.
 These are provided in Jupyter notebook format and can be executed in cloud services:
@@ -17,10 +17,10 @@ These are provided in Jupyter notebook format and can be executed in cloud servi
 Citation:
 
 ```
-@article{masegosa2019probmodel,
+@article{masegosa2019probabilistic,
   author = {Masegosa, A.R. and Caba\~{n}as, R. and Langseth, H. and Nielsen, T.D. and Salmer\'{o}n, A. },
   title = {Probabilistic Modeling with Deep Neural Networks},
-  journal = {arXiv preprint arXiv:...},
+  journal = {arXiv preprint arXiv:1908.03442},
   year = {2019}
 }
 ``` 
