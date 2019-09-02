@@ -14,6 +14,13 @@ These are provided in Jupyter notebook format and can be executed in cloud servi
 - [Example 10 - VAE](https://github.com/PGM-Lab/ProbModelingDNNs/blob/master/notebooks/Example10-VAE.ipynb)
 
 
+A comparison of the evolution of the ELBO (i.e., objective function) is shown in the following notebook:
+
+- [ELBO Evolution](https://github.com/PGM-Lab/ProbModelingDNNs/blob/master/notebooks/res/ELBO-Evolution.ipynb)
+
+
+
+
 Citation:
 
 ```
