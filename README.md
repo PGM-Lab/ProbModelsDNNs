@@ -19,8 +19,6 @@ A comparison of the evolution of the ELBO (i.e., objective function) is shown in
 - [ELBO Evolution](https://github.com/PGM-Lab/ProbModelingDNNs/blob/master/notebooks/res/ELBO-Evolution.ipynb)
 
 
-
-
 Citation:
 
 ```
