@@ -1,8 +1,8 @@
-# Probabilistic Modeling with Deep Neural Networks 
+# Probabilistic Models with Deep Neural Networks 
 
 This repository refers to the following manuscript:
 
-- Title: Probabilistic Modeling with Deep Neural Networks 
+- Title: Probabilistic Models with Deep Neural Networks 
 - Authors: Andrés R. Masegosa, Rafael Cabañas, Helge Langseth, Thomas D. Nielsen, Antonio Salmerón 
 - PDF: [https://arxiv.org/pdf/1908.03442.pdf](https://arxiv.org/pdf/1908.03442.pdf)
 
