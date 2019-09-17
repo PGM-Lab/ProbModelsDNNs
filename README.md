@@ -6,8 +6,8 @@ This repository refers to the following manuscript:
 - Authors: Andrés R. Masegosa, Rafael Cabañas, Helge Langseth, Thomas D. Nielsen, Antonio Salmerón 
 - PDF: [https://arxiv.org/pdf/1908.03442.pdf](https://arxiv.org/pdf/1908.03442.pdf)
 
-Here we provide the code for running the examples in the aforementioned manuscript.
-These are provided in Jupyter notebook format and can be executed in cloud services:
+Here we provide the code for running the examples in the aforementioned manuscript using
+Edward2 and TensorFlow Probability. These are provided in Jupyter notebook format and can be executed in cloud services:
 
 - [Example 1 - PCA](https://github.com/PGM-Lab/ProbModelingDNNs/blob/master/notebooks/Example1-PCA.ipynb)
 - [Example 6 - Non-linear PCA](https://github.com/PGM-Lab/ProbModelingDNNs/blob/master/notebooks/Example6-NLPCA.ipynb)
@@ -29,3 +29,7 @@ Citation:
   year = {2019}
 }
 ``` 
+
+
+The analogous code examples using InferPy can be found [here](https://github.com/PGM-Lab/InferPy/tree/develop/notebooks/ProbModelingDNNs).
+For further information about this package go to [https://inferpy.readthedocs.io/](https://inferpy.readthedocs.io/en/latest/).
