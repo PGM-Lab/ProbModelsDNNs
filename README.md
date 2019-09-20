@@ -39,7 +39,3 @@ Citation:
   year = {2019}
 }
 ``` 
-
-
-The analogous code examples using InferPy can be found [here](https://github.com/PGM-Lab/InferPy/tree/develop/notebooks/ProbModelingDNNs).
-For further information about this package go to [https://inferpy.readthedocs.io/](https://inferpy.readthedocs.io/en/latest/).
