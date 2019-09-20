@@ -24,7 +24,7 @@ Citation:
 ```
 @article{masegosa2019probabilistic,
   author = {Masegosa, A.R. and Caba\~{n}as, R. and Langseth, H. and Nielsen, T.D. and Salmer\'{o}n, A. },
-  title = {Probabilistic Modeling with Deep Neural Networks},
+    title = {Probabilistic Models with Deep Neural Networks},
   journal = {arXiv preprint arXiv:1908.03442},
   year = {2019}
 }
