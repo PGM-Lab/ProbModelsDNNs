@@ -13,7 +13,7 @@ Here we provide the code for running the examples in the aforementioned manuscri
 - [Example 6 - Non-linear PCA](https://github.com/PGM-Lab/ProbModelingDNNs/blob/master/notebooks/Example6-NLPCA.ipynb)
 - [Example 10 - VAE](https://github.com/PGM-Lab/ProbModelingDNNs/blob/master/notebooks/Example10-VAE.ipynb)
 
-Two well known probabilistic models including artificial neural newtorks, not detailed in the manuscript, can be found here:
+Another two well known probabilistic models including artificial neural newtorks, not detailed in the manuscript, can be found here:
 - [Bayesian Neural Networks](https://github.com/PGM-Lab/ProbModelingDNNs/blob/master/notebooks/BayesianNeuralNetworks-Edward2.ipynb)
 - [Mixture Density Networks](https://github.com/PGM-Lab/ProbModelingDNNs/blob/master/notebooks/mixture_density_networks-Edward2.ipynb)
 
